@@ -1,0 +1,19 @@
+2026-06-08 09:33:37,920 - INFO - Job started
+2026-06-08 09:33:37,921 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-06-08 09:36:19,663 - INFO - Job started
+2026-06-08 09:36:19,663 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-06-08 09:36:19,676 - ERROR - Missing required column: close
+2026-06-08 09:54:51,674 - INFO - Job started
+2026-06-08 09:54:51,675 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-06-08 09:54:51,759 - INFO - Rows loaded: 10000
+2026-06-08 09:54:51,765 - INFO - Rolling mean computed
+2026-06-08 09:54:51,767 - INFO - Signal generation completed
+2026-06-08 09:54:51,768 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 94, 'seed': 42, 'status': 'success'}
+2026-06-08 09:54:51,768 - INFO - Job completed successfully
+2026-06-08 09:56:06,142 - INFO - Job started
+2026-06-08 09:56:06,143 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-06-08 09:56:06,178 - INFO - Rows loaded: 10000
+2026-06-08 09:56:06,179 - INFO - Rolling mean computed
+2026-06-08 09:56:06,180 - INFO - Signal generation completed
+2026-06-08 09:56:06,181 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 38, 'seed': 42, 'status': 'success'}
+2026-06-08 09:56:06,181 - INFO - Job completed successfully
